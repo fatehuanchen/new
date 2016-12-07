@@ -17,9 +17,7 @@ import to_12704.User;
 public class CheckServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
      private Check cku=new Check();  
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
+    
     public CheckServlet() {
         super();
         // TODO Auto-generated constructor stub
